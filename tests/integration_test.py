@@ -5,7 +5,7 @@ from fastapi.testclient import TestClient
 
 import controller.endpoints
 from controller.endpoints import app
-from model.models import TranslateWordRequest, Dictionary
+from model.models import TranslateWordRequest
 
 client = TestClient(app)
 
