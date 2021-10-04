@@ -2,3 +2,5 @@ fastapi~=0.68.1
 pydantic~=1.8.2
 uvicorn~=0.15.0
 deep-translator==1.5.4
+graphene~=2.1.9
+starlette~=0.14.2
